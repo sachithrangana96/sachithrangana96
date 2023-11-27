@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sachith Rangana</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **Groome Digital**
+- 🔭 I’m currently working on **Techcess Business Solutions! **
 
-- 🌱 I’m currently learning **Next js,Microservices in Node Js**
+- 🌱 I’m currently learning **Microservices in Node Js | Java**
 
-- 💬 Ask me about **react,node js**
+- 💬 Ask me about **react,node js,Next js,Java**
 
 - 📫 How to reach me **sachithrangana6@gmail.com**
 
